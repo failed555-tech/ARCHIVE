@@ -1,0 +1,7 @@
+{
+  "imageSize": "350px",
+  "downloads": [
+    { "name": "Main Download", "url": "file.zip" },
+    { "name": "Mirror", "url": "extra.rar" }
+  ]
+}
