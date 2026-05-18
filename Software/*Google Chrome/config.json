@@ -1,7 +1,8 @@
 {
   "imageSize": "350px",
   "downloads": [
-    { "name": "Main Download", "url": "file.zip" },
-    { "name": "Mirror", "url": "extra.rar" }
+    { "name": "Windows 11 Version", "url": "file.zip" },
+     { "name": "Windows 7 - Windows 10", "url": "7-10version.zip" },
+    { "name": "Windows XP - Windows 7", "url": "extra.rar" }
   ]
 }
