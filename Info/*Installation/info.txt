@@ -1,0 +1,2 @@
+Installing Software is a tricky subject, for many reasons.
+One main reason is what OS (Operating System) you are installing the program on. Windows, probably the most common, can still be complicated. A modern program will most likely not run on Windows XP (2001). 
