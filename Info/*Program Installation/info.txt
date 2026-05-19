@@ -1,2 +1,8 @@
 Installing Software is a tricky subject, for many reasons.
-One main reason is what OS (Operating System) you are installing the program on. Windows, probably the most common, can still be complicated. A modern program will most likely not run on Windows XP (2001).
+One main reason is what OS (Operating System) you are installing the program on. Windows, probably the most common, can still be complicated. A modern program will most likely not run on Windows XP (2001), or Windows 7 (2009), but will run fine on Windows 10 (2015) or Windows 11 (2021).
+
+This guide is for installation of programs on Windows.
+1. Download the correct version of the software (We have Windows software from Windows 95 to Windows 11).
+2. Extract the file, All software files downloaded fom this site will either be .zip , .7z , or .iso .
+3. Run the Installer (if no installer is present, run the .exe file).
+4. Use the program!
